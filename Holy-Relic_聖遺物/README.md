@@ -116,6 +116,16 @@
 		</details>
 		<details>
 		<summary>No6 details</summary>
+
+		![](./img/natlan/q3NB6a5g2J5UDTvy/06/2026_08_11%2011_20_18_1786447296.webp)
+		![](./img/natlan/q3NB6a5g2J5UDTvy/06/2026_08_11%2011_20_25_1786447284.webp)
+
+		![](./img/natlan/q3NB6a5g2J5UDTvy/06/2026_08_11%2011_20_35_1786447285.webp)
+		![](./img/natlan/q3NB6a5g2J5UDTvy/06/2026_08_11%2011_20_49_1786447286.webp)
+
+		![](./img/natlan/q3NB6a5g2J5UDTvy/06/2026_08_11%2011_21_06_1786447288.webp)
+		![](./img/natlan/q3NB6a5g2J5UDTvy/06/2026_08_11%2011_21_15_1786447289.webp)
+
 		---
 		</details>
 
