@@ -142,6 +142,10 @@
 		</details>
 		<details>
 		<summary>No9 details</summary>
+
+		![](./img/natlan/q3NB6a5g2J5UDTvy/06/2026_08_11%2011_26_43_1786447663.webp)
+		![](./img/natlan/q3NB6a5g2J5UDTvy/06/2026_08_11%2011_27_05_1786447633.webp)
+
 		---
 		</details>
 
