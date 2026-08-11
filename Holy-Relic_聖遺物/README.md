@@ -14,31 +14,29 @@
       ![#](https://upload-os-bbs.hoyolab.com/upload/2025/08/16/291478466/b40612935fd78e875b03947d2b2a6a5f_7191572253662889334.png)
 
       <details>
-         <summary>No1 details</summary>
+        <summary>No1 details</summary>
+        
+        ![](./img/natlan/2026_08_11%209_36_18_1786441010.webp)
 
-         ![](./img/natlan/2026_08_11%209_36_18_1786441010.webp)
+        ![](./img/natlan/2026_08_11%209_36_34_1786441011.webp)
 
-         ![](./img/natlan/2026_08_11%209_36_34_1786441011.webp)
-
-         ---
-
+        ---
       </details>
 
       <details>
-         <summary>No2 details</summary>
+        <summary>No2 details</summary>
 
-         ![](./img/natlan/2026_08_11%209_49_29_1786441774.webp)
+        ![](./img/natlan/2026_08_11%209_49_29_1786441774.webp)
 
-         ![](./img/natlan/2026_08_11%209_50_12_1786441878.webp)
+        ![](./img/natlan/2026_08_11%209_50_12_1786441878.webp)
 
-         ![](./img/natlan/2026_08_11%209_53_09_1786442102.webp)
+        ![](./img/natlan/2026_08_11%209_53_09_1786442102.webp)
 
-         ![](./img/natlan/2026_08_11%209_54_39_1786442086.webp)
+        ![](./img/natlan/2026_08_11%209_54_39_1786442086.webp)
 
-         ![](./img/natlan/2026_08_11%209_56_23_1786442203.webp)
+        ![](./img/natlan/2026_08_11%209_56_23_1786442203.webp)
 
-         ---
-
+        ---
       </details>
 
   3. No.3 ~ No.6
