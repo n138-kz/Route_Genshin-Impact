@@ -72,14 +72,53 @@
 
 		---
 		</details>
+		<details>
+		<summary>No4 details</summary>
+		---
+		</details>
+		<details>
+		<summary>No5 details</summary>
+		---
+		</details>
+		<details>
+		<summary>No6 details</summary>
+		---
+		</details>
 
   4. No.7 ~ No.9
      ![#](https://upload-os-bbs.hoyolab.com/upload/2025/08/16/291478466/bfff3f86f3db6180f6cd2ec587c44cdb_1700115921417723496.png)
 
+		<details>
+		<summary>No7 details</summary>
+		---
+		</details>
+		<details>
+		<summary>No8 details</summary>
+		---
+		</details>
+		<details>
+		<summary>No9 details</summary>
+		---
+		</details>
+
   5. No.10
      ![#](https://upload-os-bbs.hoyolab.com/upload/2025/08/16/291478466/72c912497ebb3bb267a20662f90baeff_1621193145130422184.png)
 
+		<details>
+		<summary>No10 details</summary>
+		---
+		</details>
+
   6. No.11 ~ No.12
      ![#](https://upload-os-bbs.hoyolab.com/upload/2025/08/16/291478466/d9bad3620e36963e020f88943aa87fdf_7436786068234429396.png)
+
+		<details>
+		<summary>No11 details</summary>
+		---
+		</details>
+		<details>
+		<summary>No12 details</summary>
+		---
+		</details>
 
 </details>
