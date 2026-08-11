@@ -74,6 +74,14 @@
 		</details>
 		<details>
 		<summary>No4 details</summary>
+
+		![](./img/natlan/q3NB6a5g2J5UDTvy/04/2026_08_11%2010_42_31_1786445082.webp)
+		![](./img/natlan/q3NB6a5g2J5UDTvy/04/2026_08_11%2010_42_43_1786445084.webp)
+		![](./img/natlan/q3NB6a5g2J5UDTvy/04/2026_08_11%2010_42_57_1786445085.webp)
+		![](./img/natlan/q3NB6a5g2J5UDTvy/04/2026_08_11%2010_43_51_1786445086.webp)
+		![](./img/natlan/q3NB6a5g2J5UDTvy/04/2026_08_11%2010_44_01_1786445088.webp)
+		![](./img/natlan/q3NB6a5g2J5UDTvy/04/2026_08_11%2010_44_17_1786445089.webp)
+
 		---
 		</details>
 		<details>
