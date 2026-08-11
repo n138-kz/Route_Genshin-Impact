@@ -134,6 +134,12 @@
 
 		<details>
 		<summary>No7 details</summary>
+
+		![](./img/natlan/q3NB6a5g2J5UDTvy/06/2026_08_11%2011_31_52_1786448212.webp)
+		![](./img/natlan/q3NB6a5g2J5UDTvy/06/2026_08_11%2011_32_50_1786448213.webp)
+		![](./img/natlan/q3NB6a5g2J5UDTvy/06/2026_08_11%2011_35_11_1786448214.webp)
+		![](./img/natlan/q3NB6a5g2J5UDTvy/06/2026_08_11%2011_35_34_1786448216.webp)
+
 		---
 		</details>
 		<details>
