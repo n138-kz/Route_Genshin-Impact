@@ -13,14 +13,14 @@
   1. No.1 ~ No.2
 		![#](https://upload-os-bbs.hoyolab.com/upload/2025/08/16/291478466/b40612935fd78e875b03947d2b2a6a5f_7191572253662889334.png)
 
-	<details>
-		<summary>No1 details</summary>
-		
-		![](./img/natlan/2026_08_11%209_36_18_1786441010.webp)
-		![](./img/natlan/2026_08_11%209_36_34_1786441011.webp)
-
-		---
-	</details>
+		<details>
+			<summary>No1 details</summary>
+			
+			![](./img/natlan/2026_08_11%209_36_18_1786441010.webp)
+			![](./img/natlan/2026_08_11%209_36_34_1786441011.webp)
+	
+			---
+		</details>
 
 	<details>
 		<summary>No2 details</summary>
