@@ -17,7 +17,6 @@
 		<summary>No1 details</summary>
 		
 		![](./img/natlan/2026_08_11%209_36_18_1786441010.webp)
-
 		![](./img/natlan/2026_08_11%209_36_34_1786441011.webp)
 
 		---
