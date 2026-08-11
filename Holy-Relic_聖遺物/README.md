@@ -47,6 +47,8 @@
       <details>
          <summary>No3 details</summary>
 
+         ![](./img/natlan/2026_08_11 10_08_44_1786442948.webp)
+
          ---
 
       </details>
