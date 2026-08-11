@@ -22,6 +22,11 @@
 
      </details>
 
+     <details>
+       <summary>No2 details</summary>
+
+     </details>
+
   3. No.3 ~ No.6
      ![#](https://upload-os-bbs.hoyolab.com/upload/2025/08/16/291478466/15e68582d86b1781ffaab06a9cf7ebfd_9137465796148520439.png)
 
