@@ -86,6 +86,32 @@
 		</details>
 		<details>
 		<summary>No5 details</summary>
+
+		![](./img/natlan/q3NB6a5g2J5UDTvy/05/2026_08_11%2010_56_36_1786445879.webp)
+		![](./img/natlan/q3NB6a5g2J5UDTvy/05/2026_08_11%2010_57_36_1786445868.webp)
+
+		![](./img/natlan/q3NB6a5g2J5UDTvy/05/2026_08_11%2010_59_48_1786446373.webp)
+		![](./img/natlan/q3NB6a5g2J5UDTvy/05/2026_08_11%2011_00_25_1786446365.webp)
+
+		![](./img/natlan/q3NB6a5g2J5UDTvy/05/2026_08_11%2011_01_09_1786446367.webp)
+
+		![](./img/natlan/q3NB6a5g2J5UDTvy/05/2026_08_11%2011_01_22_1786446368.webp)
+		![](./img/natlan/q3NB6a5g2J5UDTvy/05/2026_08_11%2011_04_14_1786446369.webp)
+
+		![](./img/natlan/q3NB6a5g2J5UDTvy/05/2026_08_11%2011_14_26_1786446872.webp)
+
+		![](./img/natlan/q3NB6a5g2J5UDTvy/05/2026_08_11%2011_04_36_1786446370.webp)
+		![](./img/natlan/q3NB6a5g2J5UDTvy/05/2026_08_11%2011_04_42_1786446372.webp)
+
+		![](./img/natlan/q3NB6a5g2J5UDTvy/05/2026_08_11%2011_05_27_1786446373.webp)
+		![](./img/natlan/q3NB6a5g2J5UDTvy/05/2026_08_11%2011_05_34_1786446374.webp)
+		![](./img/natlan/q3NB6a5g2J5UDTvy/05/2026_08_11%2011_17_10_1786447037.webp)
+
+		![](./img/natlan/q3NB6a5g2J5UDTvy/05/2026_08_11%2011_05_46_1786446376.webp)
+		![](./img/natlan/q3NB6a5g2J5UDTvy/05/2026_08_11%2011_07_02_1786446471.webp)
+		
+		![](./img/natlan/q3NB6a5g2J5UDTvy/05/2026_08_11%2011_07_22_1786446460.webp)
+
 		---
 		</details>
 		<details>
